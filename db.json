@@ -122,6 +122,40 @@
       "id": 4
     }
   ],
-  "cart": [],
-  "orders": []
+  "cart": [
+    {
+      "name": "Daal",
+      "price": "165",
+      "category": "Bangal Special Daal",
+      "color": "white",
+      "description": "Organic Crop",
+      "image": "https://m.media-amazon.com/images/I/51QKP3CaNpL._SX300_SY300_QL70_FMwebp_.jpg",
+      "quantity": 4,
+      "productId": 3,
+      "userId": 1,
+      "id": 1
+    },
+    {
+      "name": "Wheat",
+      "price": "68",
+      "category": "Mogra",
+      "color": "White",
+      "description": "Organic Wheat",
+      "image": "https://m.media-amazon.com/images/I/71pnr89o6hL._SX679_.jpg",
+      "quantity": 3,
+      "productId": 1,
+      "userId": 1,
+      "id": 2
+    }
+  ],
+  "orders": [
+    {
+      "email": "PRASADADSUL81@GMAIL.COM",
+      "address": "adasfsd",
+      "contact": "122323545",
+      "totalPrice": 236,
+      "userId": 1,
+      "id": 1
+    }
+  ]
 }
